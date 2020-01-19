@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Benne</string>
+    <string name="no_qr">No QrCrode Detected</string>
+    <string name="Qr_Button">Scan QrCode</string>
+    <string name="title_activity_geolocalisation">Map</string>
+    <string name="title_activity_modifier_info_destinataire">modifierInfoDestinataire</string>
+    <string name="title_activity_affichage">affichage</string>
+    <string name="d_pot_de_bennes">Dêpot de bennes</string>
+    <string name="modifier_les_informations_de_l_utilisateur">Modifier les informations de l\'utilisateur</string>
+    <string name="modifier_les_informations_du_destinataire">Modifier les informations du destinataire</string>
+    <string name="envoyer_une_nouvelle_benne">Envoyer une nouvelle benne</string>
+    <string name="image_presesntation">image_presesntation</string>
+    <string name="map">MAP</string>
+    <string name="afficher_les_donn_es">Afficher les données</string>
+    <string name="modifier">MODIFIER</string>
+    <string name="beta_send_mairie">BETA SEND MAIRIE</string>
+    <string name="take_barcode_picture">Take Barcode Picture</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="open_camera">OPEN CAMERA</string>
+    <string name="qr_code_scanned_results_automatically_copied_to_your_clipboard_you_just_paste_it_in_the_browser_or_use_it_in_any_place_where_ever_you_want">QR code scanned results automatically copied to your clipboard !</string>
+    <string name="imageview">imageView</string>
+</resources>
